@@ -1,6 +1,0 @@
-name: Rebase Pull Requests
-on:
-  push:
-    branches: [master]
-  workflow_dispatch:
-  
