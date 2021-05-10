@@ -1,8 +1,0 @@
-name: PRs reviews reminder
-
-on:
-  schedule:
-    - cron: "0 8-17/7 * * 1-5"
-  workflow_dispatch:
-
-
